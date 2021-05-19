@@ -110,7 +110,7 @@ Functions
                 audio_list.append(pronunciations)
 
 
-
+Reach me on my  ![LinkedIn](https://www.linkedin.com/in/swapanroy/) ![Twitter](https://twitter.com/royswapan)
 
 
 
