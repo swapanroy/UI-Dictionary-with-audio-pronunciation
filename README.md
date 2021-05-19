@@ -19,19 +19,26 @@
 
 
 #Final Output 
+
 ![When application loads](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/560abe6ng8h468flbb80.GIF)
 
 Showing the meaning of the word
+
 ![With Meaning](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/azj1yrpa55mq57afc25s.GIF)
 
 ![Sunny side up](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8ai3hmt8p45dm8la2bq7.GIF)
+
 Output in Spanish (language_code = "es")
+
 ![Spanish](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y2cpr0m0qqp8wea9w0gy.GIF)
 Output in French (language_code = "fr")
+
 ![French](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ohnpqw82t2nd8hqfqnl4.GIF)
+
 List of Languages Supported -[here](https://developer.oxforddictionaries.com/documentation/language)
 
 Updated UI 
+
 ![Updated UI](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ipweaglgderl8hwyhbs7.GIF)
 
 #Code Snippet 
