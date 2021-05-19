@@ -1,4 +1,4 @@
-# UI-Dictionary-with-Audio
+# UI Dictionary with Audio Pronunciation 
 
 
 **Dictionary** is defined by *Merriam-Webster* as *“a reference book listing alphabetically the words of one language and showing their meanings or translations in another language”*. Using python I’m creating a real-time dictionary with pronunciation. 
