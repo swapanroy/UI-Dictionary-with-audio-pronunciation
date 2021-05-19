@@ -4,11 +4,11 @@ from tkinter import *
 from playsound import playsound
 
 # Constants 
-app_id  = "4fb09075"
-app_key  = "03abec09887fe414354996efe57e3fef"
+app_id  = "XXXXXXX"
+app_key  = "ABCD"
 endpoint = "entries"
 headers = {'app_id': app_id, 'app_key': app_key}
-language_code = "en"
+language_code = "en" # Specify the language code
 
 
 
