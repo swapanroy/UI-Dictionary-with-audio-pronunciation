@@ -41,7 +41,7 @@ Updated UI
 
 ![Updated UI](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ipweaglgderl8hwyhbs7.GIF)
 
-#Code Snippet 
+	#Code Snippet 
        # Constants 
        appid  = "Your AppID"
        appkey  = "Your Key"
